@@ -1,0 +1,7 @@
+datafile: 'adult.csv'
+lr: 0.1
+momentum: 0.95
+nesterov: false,
+batch_size: 1024
+num_epochs: 32
+seed: 1234
